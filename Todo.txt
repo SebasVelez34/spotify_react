@@ -1,0 +1,8 @@
+//TODO
+
+1) Crear component track para mostrar las canciones del artista
+//2) Por defecto realizar una búsqueda para tener data //
+//3) Eliminar el sidebar derecho y el content debe ocupar todo el ancho//
+4) Agregar data a los artistas relacionados
+5) Crear nuevos playlist
+6) Agregar canciones a playlists creadas
